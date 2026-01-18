@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diwakar5254.github.io/jai.fun/sitemap.xml
