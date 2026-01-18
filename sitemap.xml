@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://diwakar5254.github.io/jai.fun/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://diwakar5254.github.io/jai.fun/#about</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://diwakar5254.github.io/jai.fun/#skills</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://diwakar5254.github.io/jai.fun/#projects</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://diwakar5254.github.io/jai.fun/#contact</loc>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
